@@ -2,5 +2,7 @@
   "name": "고요의 성당 · 성 루카 사목 플랫폼",
   "description": "산사처럼 고요하고 평화로운 천주교 성당 안내, 공간 구조 탐색, 온라인 기도·묵상실 및 본당 사목 관리 플랫폼",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
